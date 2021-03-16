@@ -1,3 +1,3 @@
-# basic-app-study
+# basic-web-study
 
 Use JavaScript to create a basic web.
